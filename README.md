@@ -1,2 +1,2 @@
-# StatsRunner
+# StatRunner
 Discord bot
