@@ -1,2 +1,2 @@
-# StatRunner
+# OddsRunner
 Discord bot
