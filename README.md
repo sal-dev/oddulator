@@ -1,2 +1,2 @@
-# chancehelper
+# StatsRunner
 Discord bot
